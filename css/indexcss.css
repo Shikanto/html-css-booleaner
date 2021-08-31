@@ -1,0 +1,23 @@
+*{
+	margin:0; 
+	box-sizing: border-box; 
+}
+
+#titolo{
+    font-size: 40px;
+    font-weight: 900;
+}
+
+#booleaners{
+    color:rgb(22, 144, 201);
+}
+
+#sottotitolo{
+    color:darkgray;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+
+#data{
+    font-size: smaller;
+}
