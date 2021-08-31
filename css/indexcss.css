@@ -2,6 +2,16 @@
 	margin:0; 
 	box-sizing: border-box; 
 }
+#testata{
+    background-image: url("../img/pattern.png");
+    height: 150px;
+    background-color: rgb(9, 115, 253);
+}
+#logo{
+    width:15%;
+    margin-top: 70px;
+    margin-left: 10px;
+}
 
 #titolo{
     font-size: 40px;
