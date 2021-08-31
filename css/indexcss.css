@@ -12,7 +12,7 @@
     color:rgb(22, 144, 201);
 }
 
-#sottotitolo{
+#sottotitolo, h4{
     color:darkgray;
     font-weight: bolder;
 }
@@ -50,4 +50,20 @@ th, td {
     padding-right: 50px;
 }
 
+.immaginefooter {
+    height: 220px;
+    width: 280px;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
+#monitor {
+    background-image: url("../img/monitor.jpg");
+}
+
+#graph{
+    background-image: url("../img/graph.jpg");
+}
