@@ -1,8 +1,7 @@
 *{
 	margin:0; 
-	box-sizing: border-box; 
 }
-#testata{
+header{
     background-image: url("../img/pattern.png");
     height: 150px;
     background-color: rgb(9, 115, 253);
@@ -43,7 +42,7 @@ ul {
 
 table{
     border-collapse: collapse;
-
+    width: 100%;
 }
 
 thead{
@@ -67,7 +66,6 @@ th, td {
     font-size: 20px;
     color: white;
     background-size: cover;
-    background-repeat: no-repeat;
 }
 
 #monitor {
