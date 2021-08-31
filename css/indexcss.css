@@ -17,9 +17,10 @@
     font-weight: bolder;
 }
 
-#data{
+#data, figcaption{
     font-size: smaller;
 }
+
 
 .evidenziato{
     background-color: yellow;
@@ -29,3 +30,24 @@ ul {
     list-style-position:inside;
     padding-left: 0;
   }
+
+table{
+    border-collapse: collapse;
+
+}
+
+thead{
+    background-color: rgb(5, 117, 168);
+    color:white;
+}
+
+.sfondoalternato{
+    background-color: lightblue;
+}
+
+th, td {
+    text-align: left;
+    padding-right: 50px;
+}
+
+
