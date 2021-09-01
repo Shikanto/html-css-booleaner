@@ -18,18 +18,18 @@ header{
 }
 
 #booleaners{
-    color:rgb(22, 144, 201);
+    text-decoration: none;
+    color: rgb(79, 199, 255);
 }
 
 #sottotitolo, h4{
-    color:darkgray;
+    color:rgb(107, 107, 107);
     font-weight: bolder;
 }
 
 #data, figcaption{
     font-size: smaller;
 }
-
 
 .evidenziato{
     background-color: yellow;
@@ -56,7 +56,7 @@ thead{
 
 th, td {
     text-align: left;
-    padding-right: 50px;
+    padding-right: 30px;
 }
 
 .immaginefooter {
